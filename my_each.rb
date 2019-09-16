@@ -1,3 +1,7 @@
 def my_each (array, collection)
-  # code here
+  collection = 0
+  
+  while collection < array.each 
+end 
+
 end
